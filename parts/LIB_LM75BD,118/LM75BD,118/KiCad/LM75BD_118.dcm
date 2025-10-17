@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM75BD,118
+D NXP - LM75BD,118 - TEMPERATURE SENSOR, OPEN DRAIN, SOIC-8
+K
+F http://www.nxp.com/docs/en/data-sheet/LM75B.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1063,15 +1063,14 @@
 		)
 		(symbol "pinheader3x_0_1"
 			(rectangle
-				(start 0 1.27)
-				(end 5.08 -6.35)
+				(start -2.54 2.54)
+				(end 5.08 -7.62)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type color)
-					(color 255 255 194 1)
+					(type none)
 				)
 			)
 		)
