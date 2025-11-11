@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Idee und Konzept}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Konzept Übersicht}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Visuelle Darstellung der Idee}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Schematic und PCB}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}ESP32-S3}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Stromversorgung und Kommunikation}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}I$^{2}$C Busslinie und Sensoren}{11}{subsection.2.3}%

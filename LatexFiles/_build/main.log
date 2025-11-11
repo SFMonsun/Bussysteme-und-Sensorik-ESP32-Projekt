@@ -1,0 +1,1396 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.14)  29 OCT 2025 23:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/reneb/Desktop/Bussysteme und Sensorik/LatexFiles/main.tex"
+(c:/Users/reneb/Desktop/Bussysteme und Sensorik/LatexFiles/main.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/10/01 v25.13 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 12.
+)
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count285
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box53
+)
+\tc@llx=\dimen152
+\tc@lly=\dimen153
+\tc@urx=\dimen154
+\tc@ury=\dimen155
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen156
+\adjbox@Height=\dimen157
+\adjbox@Depth=\dimen158
+\adjbox@Totalheight=\dimen159
+\adjbox@pwidth=\dimen160
+\adjbox@pheight=\dimen161
+\adjbox@pdepth=\dimen162
+\adjbox@ptotalheight=\dimen163
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count286
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box54
+\sift@deathcycles=\count287
+\@vwid@loff=\dimen164
+\@vwid@roff=\dimen165
+)
+==> First Aid for varwidth.sty applied!
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen166
+\WF@size=\dimen167
+\c@WF@wrappedlines=\count288
+\WF@box=\box55
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen168
+\captionmargin=\dimen169
+\caption@leftmargin=\dimen170
+\caption@rightmargin=\dimen171
+\caption@width=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count289
+\c@continuedfloat=\count290
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen176
+\ar@mcellbox=\box56
+\extrarowheight=\dimen177
+\NC@list=\toks21
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen178
+\TX@old@table=\dimen179
+\TX@old@col=\dimen180
+\TX@target=\dimen181
+\TX@delta=\dimen182
+\TX@cols=\count291
+\TX@ftn=\toks22
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count292
+\multirow@dima=\skip54
+\bigstrutjot=\dimen183
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count293
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count294
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count295
+\calc@Bcount=\count296
+\calc@Adimen=\dimen184
+\calc@Bdimen=\dimen185
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count297
+\calc@Cskip=\skip57
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen186
+\ESO@tempdimb=\dimen187
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count298
+)
+\AM@pagewidth=\dimen188
+\AM@pageheight=\dimen189
+\AM@fboxrule=\dimen190
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count299
+\AM@pagebox=\box58
+\AM@global@opts=\toks23
+\AM@pagecnt=\count300
+\AM@toc@title=\toks24
+\AM@lof@heading=\toks25
+\c@AM@survey=\count301
+\AM@templatesizebox=\box59
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2025-07-09 v3.4.14 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count302
+\l__siunitx_number_exponent_fixed_int=\count303
+\l__siunitx_number_min_decimal_int=\count304
+\l__siunitx_number_min_integer_int=\count305
+\l__siunitx_number_round_precision_int=\count306
+\l__siunitx_number_lower_threshold_int=\count307
+\l__siunitx_number_upper_threshold_int=\count308
+\l__siunitx_number_group_first_int=\count309
+\l__siunitx_number_group_size_int=\count310
+\l__siunitx_number_group_minimum_int=\count311
+\l__siunitx_angle_tmp_dim=\dimen191
+\l__siunitx_angle_marker_box=\box60
+\l__siunitx_angle_unit_box=\box61
+\l__siunitx_compound_count_int=\count312
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen192
+))
+\l__siunitx_table_tmp_box=\box62
+\l__siunitx_table_tmp_dim=\dimen193
+\l__siunitx_table_column_width_dim=\dimen194
+\l__siunitx_table_integer_box=\box63
+\l__siunitx_table_decimal_box=\box64
+\l__siunitx_table_uncert_box=\box65
+\l__siunitx_table_before_box=\box66
+\l__siunitx_table_after_box=\box67
+\l__siunitx_table_before_dim=\dimen195
+\l__siunitx_table_carry_dim=\dimen196
+\l__siunitx_unit_tmp_int=\count313
+\l__siunitx_unit_position_int=\count314
+\l__siunitx_unit_total_int=\count315
+)
+
+Package siunitx Warning: Option "quotient-mode" has been removed in this
+(siunitx)                release.
+
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen197
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count316
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count317
+\leftroot@=\count318
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count319
+\DOTSCASE@=\count320
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box68
+\strutbox@=\box69
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen198
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count321
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count322
+\dotsspace@=\muskip17
+\c@parentequation=\count323
+\dspbrk@lvl=\count324
+\tag@help=\toks27
+\row@=\count325
+\column@=\count326
+\maxfields@=\count327
+\andhelp@=\toks28
+\eqnshift@=\dimen199
+\alignsep@=\dimen256
+\tagshift@=\dimen257
+\tagwidth@=\dimen258
+\totwidth@=\dimen259
+\lineht@=\dimen260
+\@envbody=\toks29
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+\g_MT_multlinerow_int=\count328
+\l_MT_multwidth_dim=\dimen261
+\origjot=\skip61
+\l_MT_shortvdotswithinadjustabove_dim=\dimen262
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen263
+\l_MT_above_intertext_sep=\dimen264
+\l_MT_below_intertext_sep=\dimen265
+\l_MT_above_shortintertext_sep=\dimen266
+\l_MT_below_shortintertext_sep=\dimen267
+\xmathstrut@box=\box70
+\xmathstrut@dim=\dimen268
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip62
+\f@nch@offset@elh=\skip63
+\f@nch@offset@erh=\skip64
+\f@nch@offset@olh=\skip65
+\f@nch@offset@orh=\skip66
+\f@nch@offset@elf=\skip67
+\f@nch@offset@erf=\skip68
+\f@nch@offset@olf=\skip69
+\f@nch@offset@orf=\skip70
+\f@nch@height=\skip71
+\f@nch@footalignment=\skip72
+\f@nch@widthL=\skip73
+\f@nch@widthC=\skip74
+\f@nch@widthR=\skip75
+\@temptokenb=\toks31
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (HMM)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count329
+) 
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen269
+\lightrulewidth=\dimen270
+\cmidrulewidth=\dimen271
+\belowrulesep=\dimen272
+\belowbottomsep=\dimen273
+\aboverulesep=\dimen274
+\abovetopsep=\dimen275
+\cmidrulesep=\dimen276
+\cmidrulekern=\dimen277
+\defaultaddspace=\dimen278
+\@cmidla=\count330
+\@cmidlb=\count331
+\@aboverulesep=\dimen279
+\@belowrulesep=\dimen280
+\@thisruleclass=\count332
+\@lastruleclass=\count333
+\@thisrulewidth=\dimen281
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count334
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen282
+\Hy@linkcounter=\count335
+\Hy@pagecounter=\count336
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count337
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count338
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen283
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count339
+\Field@Width=\dimen284
+\Fld@charsize=\dimen285
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count340
+\c@Item=\count341
+\c@Hfootnote=\count342
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count343
+\c@bookmark@seq@number=\count344
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip76
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count345
+\float@exts=\toks32
+\float@box=\box71
+\@float@everytoks=\toks33
+\@floatcapt=\box72
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count346
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count347
+\c@listtotal=\count348
+\c@listcount=\count349
+\c@liststart=\count350
+\c@liststop=\count351
+\c@citecount=\count352
+\c@citetotal=\count353
+\c@multicitecount=\count354
+\c@multicitetotal=\count355
+\c@instcount=\count356
+\c@maxnames=\count357
+\c@minnames=\count358
+\c@maxitems=\count359
+\c@minitems=\count360
+\c@citecounter=\count361
+\c@maxcitecounter=\count362
+\c@savedcitecounter=\count363
+\c@uniquelist=\count364
+\c@uniquename=\count365
+\c@refsection=\count366
+\c@refsegment=\count367
+\c@maxextratitle=\count368
+\c@maxextratitleyear=\count369
+\c@maxextraname=\count370
+\c@maxextradate=\count371
+\c@maxextraalpha=\count372
+\c@abbrvpenalty=\count373
+\c@highnamepenalty=\count374
+\c@lownamepenalty=\count375
+\c@maxparens=\count376
+\c@parenlevel=\count377
+\blx@tempcnta=\count378
+\blx@tempcntb=\count379
+\blx@tempcntc=\count380
+\c@blx@maxsection=\count381
+\blx@maxsegment@0=\count382
+\blx@notetype=\count383
+\blx@parenlevel@text=\count384
+\blx@parenlevel@foot=\count385
+\blx@sectionciteorder@0=\count386
+\blx@sectionciteorderinternal@0=\count387
+\blx@entrysetcounter=\count388
+\blx@biblioinstance=\count389
+\labelnumberwidth=\skip77
+\labelalphawidth=\skip78
+\biblabelsep=\skip79
+\bibitemsep=\skip80
+\bibnamesep=\skip81
+\bibinitsep=\skip82
+\bibparsep=\skip83
+\bibhang=\skip84
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count390
+\c@maxcomprange=\count391
+\c@mincompwidth=\count392
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count393
+\c@savedafterword=\count394
+\c@annotator=\count395
+\c@savedannotator=\count396
+\c@author=\count397
+\c@savedauthor=\count398
+\c@bookauthor=\count399
+\c@savedbookauthor=\count400
+\c@commentator=\count401
+\c@savedcommentator=\count402
+\c@editor=\count403
+\c@savededitor=\count404
+\c@editora=\count405
+\c@savededitora=\count406
+\c@editorb=\count407
+\c@savededitorb=\count408
+\c@editorc=\count409
+\c@savededitorc=\count410
+\c@foreword=\count411
+\c@savedforeword=\count412
+\c@holder=\count413
+\c@savedholder=\count414
+\c@introduction=\count415
+\c@savedintroduction=\count416
+\c@namea=\count417
+\c@savednamea=\count418
+\c@nameb=\count419
+\c@savednameb=\count420
+\c@namec=\count421
+\c@savednamec=\count422
+\c@translator=\count423
+\c@savedtranslator=\count424
+\c@shortauthor=\count425
+\c@savedshortauthor=\count426
+\c@shorteditor=\count427
+\c@savedshorteditor=\count428
+\c@labelname=\count429
+\c@savedlabelname=\count430
+\c@institution=\count431
+\c@savedinstitution=\count432
+\c@lista=\count433
+\c@savedlista=\count434
+\c@listb=\count435
+\c@savedlistb=\count436
+\c@listc=\count437
+\c@savedlistc=\count438
+\c@listd=\count439
+\c@savedlistd=\count440
+\c@liste=\count441
+\c@savedliste=\count442
+\c@listf=\count443
+\c@savedlistf=\count444
+\c@location=\count445
+\c@savedlocation=\count446
+\c@organization=\count447
+\c@savedorganization=\count448
+\c@origlocation=\count449
+\c@savedoriglocation=\count450
+\c@origpublisher=\count451
+\c@savedorigpublisher=\count452
+\c@publisher=\count453
+\c@savedpublisher=\count454
+\c@language=\count455
+\c@savedlanguage=\count456
+\c@origlanguage=\count457
+\c@savedoriglanguage=\count458
+\c@pageref=\count459
+\c@savedpageref=\count460
+\shorthandwidth=\skip85
+\shortjournalwidth=\skip86
+\shortserieswidth=\skip87
+\shorttitlewidth=\skip88
+\shortauthorwidth=\skip89
+\shorteditorwidth=\skip90
+\locallabelnumberwidth=\skip91
+\locallabelalphawidth=\skip92
+\localshorthandwidth=\skip93
+\localshortjournalwidth=\skip94
+\localshortserieswidth=\skip95
+\localshorttitlewidth=\skip96
+\localshortauthorwidth=\skip97
+\localshorteditorwidth=\skip98
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count461
+\c@textcitetotal=\count462
+\c@textcitemaxnames=\count463
+\c@biburlbigbreakpenalty=\count464
+\c@biburlbreakpenalty=\count465
+\c@biburlnumpenalty=\count466
+\c@biburlucpenalty=\count467
+\c@biburllcpenalty=\count468
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count469
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count470
+\c@bbx:relatedtotal=\count471
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-09-02 L3 programming layer (loader) 
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count472
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2025-09-02 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count473
+\csq@gtype=\count474
+\csq@glevel=\count475
+\csq@qlevel=\count476
+\csq@maxlvl=\count477
+\csq@tshold=\count478
+\csq@ltx@everypar=\toks34
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count479
+\Gm@cntv=\count480
+\c@Gm@tempcnt=\count481
+\Gm@bindingoffset=\dimen286
+\Gm@wd@mp=\dimen287
+\Gm@odd@mp=\dimen288
+\Gm@even@mp=\dimen289
+\Gm@layoutwidth=\dimen290
+\Gm@layoutheight=\dimen291
+\Gm@layouthoffset=\dimen292
+\Gm@layoutvoffset=\dimen293
+\Gm@dimlist=\toks35
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen294
+\pgfutil@tempdimb=\dimen295
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box73
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks39
+))
+\pgf@x=\dimen296
+\pgf@y=\dimen297
+\pgf@xa=\dimen298
+\pgf@ya=\dimen299
+\pgf@xb=\dimen300
+\pgf@yb=\dimen301
+\pgf@xc=\dimen302
+\pgf@yc=\dimen303
+\pgf@xd=\dimen304
+\pgf@yd=\dimen305
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count482
+\c@pgf@countb=\count483
+\c@pgf@countc=\count484
+\c@pgf@countd=\count485
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+\pgf@sys@id@count=\count486
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count487
+\pgfsyssoftpath@bigbuffer@items=\count488
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen306
+\pgfmath@count=\count489
+\pgfmath@box=\box74
+\pgfmath@toks=\toks43
+\pgfmath@stack@operand=\toks44
+\pgfmath@stack@operation=\toks45
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count490
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen307
+\pgf@picmaxx=\dimen308
+\pgf@picminy=\dimen309
+\pgf@picmaxy=\dimen310
+\pgf@pathminx=\dimen311
+\pgf@pathmaxx=\dimen312
+\pgf@pathminy=\dimen313
+\pgf@pathmaxy=\dimen314
+\pgf@xx=\dimen315
+\pgf@xy=\dimen316
+\pgf@yx=\dimen317
+\pgf@yy=\dimen318
+\pgf@zx=\dimen319
+\pgf@zy=\dimen320
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen321
+\pgf@path@lasty=\dimen322
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen323
+\pgf@shorten@start@additional=\dimen324
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box75
+\pgf@hbox=\box76
+\pgf@layerbox@main=\box77
+\pgf@picture@serial@count=\count491
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen325
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen326
+\pgf@pt@y=\dimen327
+\pgf@pt@temp=\dimen328
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen329
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen330
+\pgf@sys@shading@range@num=\count492
+\pgf@shadingcount=\count493
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box78
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box79
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen331
+\pgf@nodesepend=\dimen332
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen333
+\pgffor@skip=\dimen334
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count494
+\pgfplotmarksize=\dimen335
+)
+\tikz@lastx=\dimen336
+\tikz@lasty=\dimen337
+\tikz@lastxsaved=\dimen338
+\tikz@lastysaved=\dimen339
+\tikz@lastmovetox=\dimen340
+\tikz@lastmovetoy=\dimen341
+\tikzleveldistance=\dimen342
+\tikzsiblingdistance=\dimen343
+\tikz@figbox=\box80
+\tikz@figbox@bg=\box81
+\tikz@tempbox=\box82
+\tikz@tempbox@bg=\box83
+\tikztreelevel=\count495
+\tikznumberofchildren=\count496
+\tikznumberofcurrentchild=\count497
+\tikz@fig@count=\count498
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count499
+\pgfmatrixcurrentcolumn=\count500
+\pgf@matrix@numberofcolumns=\count501
+)
+\tikz@expandcount=\count502
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks48
+\t@pgfplots@tokb=\toks49
+\t@pgfplots@tokc=\toks50
+\pgfplots@tmpa=\dimen344
+\c@pgfplots@coordindex=\count503
+\c@pgfplots@scanlineindex=\count504
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks51
+\t@pgf@tokb=\toks52
+\t@pgf@tokc=\toks53
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count505
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count506
+\t@pgfplotstable@a=\toks54
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count507
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen345
+\pgfdecoratedremainingdistance=\dimen346
+\pgfdecoratedinputsegmentcompleteddistance=\dimen347
+\pgfdecoratedinputsegmentremainingdistance=\dimen348
+\pgf@decorate@distancetomove=\dimen349
+\pgf@decorate@repeatstate=\count508
+\pgfdecorationsegmentamplitude=\dimen350
+\pgfdecorationsegmentlength=\dimen351
+)
+\tikz@lib@dec@box=\box84
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count509
+\pgfplots@xmin@reg=\dimen352
+\pgfplots@xmax@reg=\dimen353
+\pgfplots@ymin@reg=\dimen354
+\pgfplots@ymax@reg=\dimen355
+\pgfplots@zmin@reg=\dimen356
+\pgfplots@zmax@reg=\dimen357
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+Package hyperref Info: Option `colorlinks' set `true' on input line 78.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen358
+\c@nlinenum=\count510
+\TeXr@lab=\toks55
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+\@float@every@algorithm=\toks56
+\c@algorithm=\count511
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count512
+\c@ALG@rem=\count513
+\c@ALG@nested=\count514
+\ALG@tlm=\skip99
+\ALG@thistlm=\skip100
+\c@ALG@Lnr=\count515
+\c@ALG@blocknr=\count516
+\c@ALG@storecount=\count517
+\c@ALG@tmpcounter=\count518
+\ALG@tmplength=\skip101
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+ (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.aux (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\chapters/Ideaandconcept.aux
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+) (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\chapters/Schematic and PCB.aux
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+
+LaTeX Warning: Label `fig:v24' multiply defined.
+
+))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count519
+\scratchdimen=\dimen359
+\scratchbox=\box85
+\nofMPsegments=\count520
+\nofMParguments=\count521
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count522
+\MPscratchDim=\dimen360
+\MPnumerator=\count523
+\makeMPintoPDFobject=\count524
+\everyMPtoPDFconversion=\toks58
+) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)) (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 100.
+Package hyperref Info: Link coloring ON on input line 100.
+ (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.out) (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.bbl)
+Package biblatex Info: Reference section=0 on input line 100.
+Package biblatex Info: Reference segment=0 on input line 100.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(113.81102pt, 617.4248pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=617.4248pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-43.81721pt
+* \headheight=56.9055pt
+* \headsep=28.45274pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=28.45274pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.16).
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 102.
+(C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 102.
+ (C:\Users\reneb\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[1
+
+{C:/Users/reneb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.toc)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+
+
+<images/haw-logo.jpg, id=51, 1612.0225pt x 593.21625pt>
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 105.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[2 <./images/haw-logo.jpg>]
+\openout2 = `chapters/Ideaandconcept.aux'.
+
+ (chapters/Ideaandconcept.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--16
+
+ []
+
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 45.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[3
+
+]
+<images/cube.png, id=71, 1027.84pt x 1027.84pt>
+File: images/cube.png Graphic file (type png)
+<use images/cube.png>
+Package pdftex.def Info: images/cube.png  used on input line 49.
+(pdftex.def)             Requested size: 426.79135pt x 426.79659pt.
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 54.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[4 <./images/cube.png (PNG copy)>]
+<images/cube2.png, id=82, 1027.84pt x 1027.84pt>
+File: images/cube2.png Graphic file (type png)
+<use images/cube2.png>
+Package pdftex.def Info: images/cube2.png  used on input line 57.
+(pdftex.def)             Requested size: 426.79135pt x 426.79659pt.
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 62.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[5 <./images/cube2.png (PNG copy)>]
+<images/cube3.png, id=91, 1027.84pt x 1027.84pt>
+File: images/cube3.png Graphic file (type png)
+<use images/cube3.png>
+Package pdftex.def Info: images/cube3.png  used on input line 65.
+(pdftex.def)             Requested size: 426.79135pt x 426.79659pt.
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 70.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[6 <./images/cube3.png (PNG copy)>]
+<images/cube4.png, id=100, 1027.84pt x 1027.84pt>
+File: images/cube4.png Graphic file (type png)
+<use images/cube4.png>
+Package pdftex.def Info: images/cube4.png  used on input line 73.
+(pdftex.def)             Requested size: 426.79135pt x 426.79659pt.
+)
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 105.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[7 <./images/cube4.png (PNG copy)>]
+\openout2 = `"chapters/Schematic and PCB.aux"'.
+
+ (chapters/Schematic and PCB.tex
+<images/ESP32-S3.png, id=110, 193.47281pt x 257.46187pt>
+File: images/ESP32-S3.png Graphic file (type png)
+<use images/ESP32-S3.png>
+Package pdftex.def Info: images/ESP32-S3.png  used on input line 12.
+(pdftex.def)             Requested size: 192.0548pt x 255.57945pt.
+<images/ESP32-S3-schem.png, id=112, 455.45157pt x 542.77782pt>
+File: images/ESP32-S3-schem.png Graphic file (type png)
+<use images/ESP32-S3-schem.png>
+Package pdftex.def Info: images/ESP32-S3-schem.png  used on input line 19.
+(pdftex.def)             Requested size: 213.39568pt x 254.31052pt.
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 26.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[8
+
+
+
+ <./images/ESP32-S3.png> <./images/ESP32-S3-schem.png>]
+<images/usbcpinout.png, id=122, 709.65125pt x 312.16624pt>
+File: images/usbcpinout.png Graphic file (type png)
+<use images/usbcpinout.png>
+Package pdftex.def Info: images/usbcpinout.png  used on input line 39.
+(pdftex.def)             Requested size: 426.79135pt x 187.74417pt.
+<images/usbc.png, id=123, 532.99126pt x 158.84344pt>
+File: images/usbc.png Graphic file (type png)
+<use images/usbc.png>
+Package pdftex.def Info: images/usbc.png  used on input line 46.
+(pdftex.def)             Requested size: 426.79135pt x 127.1961pt.
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 50.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[9 <./images/usbcpinout.png> <./images/usbc.png>]
+<images/usbcsch.png, id=133, 896.59969pt x 642.90187pt>
+File: images/usbcsch.png Graphic file (type png)
+<use images/usbcsch.png>
+Package pdftex.def Info: images/usbcsch.png  used on input line 54.
+(pdftex.def)             Requested size: 426.79135pt x 306.029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--59
+
+ []
+
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 67.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[10 <./images/usbcsch.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 68.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 68.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 68.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+
+ []
+
+
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 97.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[11]
+<images/i2cwork.png, id=149, 986.18437pt x 221.32687pt>
+File: images/i2cwork.png Graphic file (type png)
+<use images/i2cwork.png>
+Package pdftex.def Info: images/i2cwork.png  used on input line 101.
+(pdftex.def)             Requested size: 426.79135pt x 95.78333pt.
+)
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 106.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[12 <./images/i2cwork.png>]
+
+File: images/haw-logo.jpg Graphic file (type jpg)
+<use images/haw-logo.jpg>
+Package pdftex.def Info: images/haw-logo.jpg  used on input line 114.
+(pdftex.def)             Requested size: 77.30978pt x 28.45274pt.
+[13
+
+
+] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.aux (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\chapters/Ideaandconcept.aux) (c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\chapters/Schematic and PCB.aux))
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: BF05C2DE8F7C801FD835B51E50F8070A;1143.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 49137 strings out of 468081
+ 1127194 string characters out of 5425788
+ 2009939 words of memory out of 5000000
+ 77049 multiletter control sequences out of 15000+600000
+ 647622 words of font info for 89 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,15n,117p,1257b,1840s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\reneb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/reneb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/reneb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/reneb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/reneb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "c:\Users\reneb\Desktop\Bussysteme und Sensorik\LatexFiles\_build\main.pdf" (13 pages, 6335854 bytes).
+PDF statistics:
+ 625 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,116 @@
+% !TeX root = main.tex
+
+\documentclass{article}
+% Remove the footnote rule completely
+\renewcommand{\footnoterule}{}
+%%%%
+\usepackage[english]{babel}
+\usepackage{graphicx} % Required for inserting images
+\graphicspath{{images/}}
+\usepackage[export]{adjustbox}
+\usepackage{wrapfig}
+\usepackage[font=small,labelfont=bf]{caption}
+%\usepackage[backend=biber, style=alphabetic, citestyle=authoryear]{biblatex}
+\usepackage{tabularx}
+\usepackage{multirow}
+%\usepackage[hidelinks]{hyperref}
+
+%\usepackage[numbers]{natbib}
+
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{pdfpages}
+
+\usepackage{siunitx}
+\sisetup{locale = DE, quotient-mode = fraction, parse-numbers=false}
+\usepackage{amssymb}
+\usepackage{mathtools}
+%%%%
+
+\usepackage[english]{babel}
+\usepackage{graphicx} % Required for inserting images
+%\usepackage[a4paper]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{graphicx, wrapfig, subcaption, setspace, booktabs}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{float} %Bildpositionierung
+\setlength{\parindent}{0pt} %not sure
+\usepackage[
+  backend=biber,
+  style=numeric,
+  citestyle=numeric
+]{biblatex}                     %Zitieren im IEEE Stil
+
+\usepackage{csquotes}            %Zum Zietieren verwendetet package
+
+\title{Bussystem und Sensorik - Smart Home Cube\ \vspace{2cm}}
+
+\author{    
+            \textbf{HAW Hamburg | Projectwork} René Bloeß }
+\date{}
+
+
+%%%%%%%%%%%%%%
+%\lstset{style=mystyle}
+
+%% Code Styling (End)
+
+\usepackage{booktabs}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage[a4paper, top=4cm, bottom=4cm, left=3cm, right=3cm,
+headheight=2cm, headsep=1cm, footnotesep=1cm]{geometry}
+\pagestyle{fancy}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.16}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\fancyhead{}
+
+\usepackage{adjustbox}
+\usepackage{makecell}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{tikz}
+
+\lhead{\raisebox{0.75\height}{BU}}
+\chead{\raisebox{0.75\height}{Smart-Home-Cube}}
+\rhead{\raisebox{0.75\height}{Oktober 2025}} 
+
+\fancyfoot{}
+\lfoot{R. Bloeß}
+\cfoot{Seite \thepage\ von \pageref{LastPage}}
+\rfoot{\raisebox{-0.3\height}{\includegraphics[height=1cm]{images/haw-logo.jpg}}}
+\renewcommand{\footrulewidth}{0.5pt}
+
+\addbibresource{chapters/literature.bib} % Deine .bib Datei
+%%%%%%%%%%%%
+\begin{document}
+\maketitle
+
+\newpage
+\tableofcontents
+\include{chapters/Ideaandconcept}
+\include{chapters/Schematic and PCB}
+
+
+
+\printbibliography
+
+%\counterwithout{section}{chapter}
+
+\newpage
+
+\end{document}

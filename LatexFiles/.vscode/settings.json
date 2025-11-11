@@ -1,0 +1,21 @@
+{
+
+    "latex-workshop.latex.outDir": "./_build",
+
+
+    "latex-workshop.view.pdf.viewer": "tab",
+
+
+    "latex-workshop.latex.autoBuild.run": "onSave",
+
+
+    "latex-workshop.latex.autoBuild.interval": 2000,
+
+    "latex-workshop.latex.watch.files.ignore": [
+        "**/*.aux",
+        "**/*.log",
+        "**/*.gz",
+        "**/*.fls",
+        "**/*.fdb_latexmk"
+    ]
+}
